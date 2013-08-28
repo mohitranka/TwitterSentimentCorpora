@@ -1,8 +1,7 @@
-
 TwitterSentimentCorpora
 =======================
 
-The corpora used to create pickled objects to be used at http://github.com/mohitranka/TwitterSentiment.It contains following corpora.
+The corpora used to create pickled objects to be used at http://github.com/mohitranka/TwitterSentiment. It contains following corpora.
 
 1. stopwords - (Downloadable via nltk.download()), contains stopwords of different languages.
 
